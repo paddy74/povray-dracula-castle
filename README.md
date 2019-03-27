@@ -20,6 +20,10 @@ To start run the following from the src directory:
 povray render_castle.pov
 ```
 
+### Output
+
+![](render_castle.png)
+
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository]().
